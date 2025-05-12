@@ -1,0 +1,3 @@
+[submodule "meu-projecte"]
+	path = meu-projecte
+	url = https://github.com/SectionOne/meu-projecte.git
